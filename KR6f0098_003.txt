@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:42.293773
+#+DATE: 2015-08-30 20:02:43.561412
 #+TITLE: 佛說如幻三摩地無量印法門經
 #+PROPERTY: CBETA_ID T12n0372
 #+PROPERTY: ID KR6f0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 372
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6f0098_T_000-0357c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0098_T_003-0362b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說如幻三摩地無量印法門經》¶
+《佛說如幻三摩地無量印法門經》¶
 卷下¶
 ¶
 西天譯經三藏朝奉大夫¶
@@ -34,7 +33,7 @@
 　我等今者以此緣，
 　盡未來際悉思念，¶
 　普為利樂諸眾生，
-　於無邊劫行無懈。¶
+　于無邊劫行無懈。¶
 　我等從今日已去，
 　永滅貪瞋癡等垢，¶
 　十方現在佛世尊，
@@ -238,7 +237,7 @@
 異口同音作如是言：「世尊！我等於佛所說深¶
 經，亦當受持讀誦為他說廣。」¶
 
-爾時娑婆世界主大梵天王、帝釋天主、護世¶
+爾時娑媻世界主大梵天王、帝釋天主、護世¶
 四王，及餘無數諸天子眾，各以天曼陀羅華¶
 散於佛上，及以天華散諸菩薩，復作百千俱¶
 胝種天妙音樂而為供養。又發是言：「一切眾¶
