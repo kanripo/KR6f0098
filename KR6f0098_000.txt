@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說如幻三摩地無量印法門經
+#+DATE: 2015-08-30 20:02:42.510619
+#+PROPERTY: JUAN 0
