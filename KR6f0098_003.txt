@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:42.293773
+#+DATE: 2015-08-30 20:02:43.300739
 #+TITLE: 佛說如幻三摩地無量印法門經
 #+PROPERTY: CBETA_ID T12n0372
 #+PROPERTY: ID KR6f0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 372
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6f0098_T_000-0357c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0098_T_003-0362b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說如幻三摩地無量印法門經》¶
+《佛說如幻三摩地無量印法門經》¶
 卷下¶
 ¶
 西天譯經三藏朝奉大夫¶
@@ -198,7 +197,7 @@
 有能受持讀誦為他廣說者，得幾所福？」
 
 佛¶
-言：「止止。善男子！勿致斯問。何以故？諸有劣¶
+言：「正止。善男子！勿致斯問。何以故？諸有劣¶
 信解者，於佛所說如是深經不能生信，故我¶
 不說。」
 
