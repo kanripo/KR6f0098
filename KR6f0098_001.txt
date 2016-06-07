@@ -1,25 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:42.242732
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:04
 #+TITLE: 佛說如幻三摩地無量印法門經
 #+PROPERTY: CBETA_ID T12n0372
 #+PROPERTY: ID KR6f0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 372
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0098_T_000-0357c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0098_T_001-0357c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.372[No.321]¶
-
- 《佛說如幻三摩地無量印法門經》¶
+No. 372 [No. 321]¶
+《佛說如幻三摩地無量印法門經》¶
 卷上¶
 ¶
 西天譯經三藏朝奉大夫¶
-試光祿卿傳法大師賜¶
-紫臣施護等奉　詔譯¶
+試光祿卿傳法大師賜紫臣施護等奉　詔譯¶
 
 如是我聞：
 
