@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:43.250924
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:04
 #+TITLE: 佛說如幻三摩地無量印法門經
 #+PROPERTY: CBETA_ID T12n0372
 #+PROPERTY: ID KR6f0098
